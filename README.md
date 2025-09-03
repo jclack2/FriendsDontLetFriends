@@ -6,7 +6,7 @@
 
 Friends don't let friends make certain types of data visualization - What are they and why are they bad. 
 
-* Author: Chenxin Li, Ph.D., Assistant Research Scientist at Department of Crop & Soil Sciences and Center for Applied Genetic Technologies, University of Georgia. 
+* Author: Chenxin Li, Ph.D., Assistant Professor at Department of Plant Biology, Michigan State University. 
 * Contact: lichen27@msu.edu | [@chenxinli2.bsky.social](https://bsky.app/profile/chenxinli2.bsky.social)
 
 This is an *opinionated* essay about good and bad practices in data visualization. 
